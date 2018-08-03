@@ -9,5 +9,4 @@ Test_framework
 |--utils（公共方法）
 |--ReadMe.md（加个说明性的文件）
 
-#2018年8月3日16:07:41
-#Author：yanl
+测试框架实操demo
